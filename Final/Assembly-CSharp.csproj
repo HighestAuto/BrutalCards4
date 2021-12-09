@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\CardAnimator.cs" />
      <Compile Include="Assets\Scripts\Lobby.cs" />
      <Compile Include="Assets\Scripts\Constants.cs" />
+     <Compile Include="Assets\Scripts\Options.cs" />
      <None Include="Assets\SWNetwork\SWNetwork.xml" />
      <None Include="Assets\Kenney\license.txt" />
  <Reference Include="UnityEngine">
